@@ -1,4 +1,3 @@
-<img width="1174" height="438" alt="image" src="https://github.com/user-attachments/assets/e344eece-ba6a-47de-84e2-cd87fdb1a1e7" /># scRNAseq-pipeline-ZZT
 
 ## Overview
 This repository contains scripts for preprocessing, clustering, and visualization of single-cell RNA-seq data using Seurat in R.
