@@ -51,9 +51,9 @@ scRNAseq-pipeline-ZZT/
 
 ## Contact
 
-Maintainer: ZZT
-Email: your_email@example.com
+Maintainer: Ziting Zhu
 
-Google Scholar: https://scholar.google.com/citations?user=xxxx
+Email: 2023311133@stu.gzhmu.edu.cn
 
-ORCID: https://orcid.org/0000-0000-0000-0000
+
+ORCID: [https://orcid.org/0000-0002-0662-205X]
