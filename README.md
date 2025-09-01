@@ -17,7 +17,6 @@ This repository contains scripts for preprocessing, clustering, and visualizatio
 
 ---
 
-```markdown
 2. Install dependencies in R:
    ```R
    install.packages("Seurat")
