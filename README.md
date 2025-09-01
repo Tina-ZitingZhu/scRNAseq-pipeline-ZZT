@@ -39,6 +39,7 @@ Demo dataset can be downloaded from:
 10x Genomics PBMC 3k
 
 ## Repository structure
+```
 scRNAseq-pipeline-ZZT/
 ├── README.md
 ├── scripts/
@@ -46,6 +47,7 @@ scRNAseq-pipeline-ZZT/
 ├── figures/
 │   └── umap_example.png
 └── LICENSE
+```
 
 ## Contact
 
